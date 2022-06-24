@@ -1,5 +1,5 @@
 # Genetic_drift
-A Genetic Drift simulator which you can export simulations data as excel file and use it.
+A Genetic Drift simulator which you can export simulations data as excel file and plot it.
 
 There are 5 code files.
 - "1.Simulate_Data.R". Is the simulator of populations
